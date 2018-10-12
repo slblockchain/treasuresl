@@ -1,0 +1,9 @@
+Building TREASURESL
+
+See doc/readme-qt.rst for instructions on building TREASURESL-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TREASURESL.
+
+See doc/build-*.txt for instructions on building treasureSLd,
+the intended-for-services, no-graphical-interface, reference
+implementation of TREASURESL.
